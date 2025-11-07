@@ -1,0 +1,1 @@
+{"parameters":{"operation":"get","workflowId":{"__rl":true,"value":"={{ $json.workflow_id }}","mode":"id"},"requestOptions":{}},"type":"n8n-nodes-base.n8n","typeVersion":1,"position":[176,144],"id":"f2cf223a-f5bc-45fc-8cea-b94426b9dfe4","name":"n8n","credentials":{"n8nApi":{"id":"0PDG7S762QmJ7z6T","name":"n8n account"}}}
